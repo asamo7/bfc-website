@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: BFC
-image: /img/home-jumbotron.jpg
+image: /img/home.jpg
 heading: Club de basquetball ....
 subheading: El nostre missatge ...
 mainpitch:
