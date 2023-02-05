@@ -64,10 +64,10 @@ const Navbar = class extends React.Component {
           >
             <div className="navbar-start has-text-centered">
               <Link className="navbar-item" to="/about">
-                About
+                Club
               </Link>
               <Link className="navbar-item" to="/products">
-                Products
+                Escola de bàsquet
               </Link>
               <Link className="navbar-item" to="/blog">
                 Blog
@@ -79,6 +79,7 @@ const Navbar = class extends React.Component {
                 Form Examples
               </Link>
             </div>
+            &lt;!--
             <div className="navbar-end has-text-centered">
               <a
                 className="navbar-item"
@@ -90,7 +91,7 @@ const Navbar = class extends React.Component {
                   <img src={github} alt="Github" />
                 </span>
               </a>
-            </div>
+            </div>--&gt;
           </div>
         </div>
       </nav>
