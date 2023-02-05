@@ -122,7 +122,7 @@ collections:
                 ],
             }
       - file: "src/pages/about/index.md"
-        label: "About"
+        label: "Club"
         name: "about"
         fields:
           - {
