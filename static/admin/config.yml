@@ -123,7 +123,7 @@ collections:
             }
       - file: "src/pages/about/index.md"
         label: "Club"
-        name: "about"
+        name: "club"
         fields:
           - {
               label: "Template Key",
@@ -134,8 +134,8 @@ collections:
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Body", name: "body", widget: "markdown" }
       - file: "src/pages/products/index.md"
-        label: "Products Page"
-        name: "products"
+        label: "Escola de bàsquet"
+        name: "escola"
         fields:
           - {
               label: "Template Key",
